@@ -1,0 +1,486 @@
+*{
+   margin: 0;
+   padding: o;
+   text-decoration: none;
+   list-style: none;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.list{
+    display: flex;
+    justify-content: space-around;
+}
+.list_item a{
+    text-decoration: none;
+    color: black;
+    margin: 0;
+}
+
+.list_item{
+    padding-left: 20px;
+}
+
+.fa-brands{
+    margin-left: 15px;
+}
+
+.btnprimary{
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    padding: 11px 15px;background: #2F2F2F;
+    border-radius: 20px;
+    color: #FFFFFF;
+    margin-left: 33px;
+}
+
+nav{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.flexDiv{
+    display: flex;
+    align-items: center;
+}
+
+.text{
+    margin-top: 250px;
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 0.48px;
+    color: #82CBAC;
+
+}
+
+.change{
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.textall{
+    padding-top: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 350px;
+}
+
+.positionImage{
+    margin-top: 110px;
+    position: relative;
+
+}
+
+.imagePink{
+    position: absolute;
+    top: -50px;
+    left: -150px;
+}
+
+.imagePink2{
+    position: absolute;
+    top: 100px;
+}
+
+
+
+.Allimage{ 
+    margin-top: 60px; 
+    margin-bottom: 120px; 
+    display: flex;
+}
+ 
+
+.codX{
+    text-align: center;
+}
+
+.hey{
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    color: #2F2F2F;
+}
+
+.suspen{
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    color: #2F2F2F;
+}
+
+.img15{
+    margin-top: 64px;
+    margin-bottom: 150px;
+    height: 395px;
+
+}
+
+.blodX{
+    margin-top: 130px;
+}
+
+.digital{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FF7F96;
+
+}
+
+.pell{
+    font-weight: 400;
+    font-size: 36px;
+    color: #2F2F2F;
+}
+
+
+.libero{
+    font-weight: 400;
+    font-size: 20px;
+    color: #2F2F2F;
+
+}
+
+.codxbtn{
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+.btnall{
+    padding: 11px 60px;
+    background: #2F2F2F;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.btnall2{
+    padding: 11px 60px;
+    background: #E5E5E5;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+}
+    
+
+.btnall3{
+    padding: 11px 60px;
+    background: #E5E5E5;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+}
+
+.image1{
+    position: absolute;
+    top: -30px;
+    left: -190px;
+}
+
+.btnnot{
+    padding: 11px 40px;
+    background: #2F2F2F;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 350px;
+
+}
+
+.image2{
+    position: absolute;
+    bottom: -480px;
+    left: -80px;
+}
+
+.out{
+    font-weight: 400;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #2F2F2F;
+}
+.um{
+    font-weight: 400;
+    font-size: 48px;
+    color: #2F2F2F;
+
+}
+
+.nulla{
+    margin-top: 38px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #2F2F2F;
+
+}
+
+.codmt{
+    margin-top: 35px;
+    margin-left: 80px;
+}
+
+.lolo{
+    margin-bottom: 150px;
+    margin-left: 60px;
+}
+
+.btnfree{
+    padding: 6px 20px;
+    background: #82CBAC;
+    border-radius: 30px
+}
+
+.btnfree2{
+    margin-top: 40px;
+    padding: 6px 20px;
+    background: #FF7F96;
+    border-radius: 30px;
+}   
+
+.btnfree3{
+    margin-top: 40px;
+    padding: 6px 20px;
+    background: #EAD71B;
+    border-radius: 30px;
+}
+
+.good{
+    font-weight: 700;
+    font-size: 35px;
+    color: #2F2F2F;
+
+}
+
+.imagelogo{
+    margin-left: 280px;
+    margin-top: -30px;
+}
+
+.gods{
+    margin-left: 90px;
+}
+
+.boot{
+    margin-left: -60px;
+    margin-bottom: 100px;
+}
+
+.brow{
+    margin-bottom: 90px;
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    color: #2F2F2F;
+}
+
+
+
+.abvd{
+    display: flex;
+}
+
+.imgabv{
+    margin-left: 80px;
+}
+
+.phone{
+    margin-bottom: 140px;
+    padding-top: 20px;
+    padding-left: 100px;
+    font-weight: 700;
+    font-size: 26px;
+    color: #2F2F2F;
+}
+    
+.btna{
+    padding: 12px 50px;
+    margin-bottom: 100px;
+    background: #2F2F2F;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.boll{
+    display: flex;
+    justify-content: center;
+}
+
+.Top{
+    margin-bottom: 25px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 63px;
+    color: #2F2F2F;
+}
+
+.abvd2{
+    display: flex;
+}
+
+.imgabv2{
+    margin-left: 80px;
+}
+
+.btna2{
+    padding: 12px 50px;
+    margin-top: 100px;
+    margin-bottom: 55px;
+    background: #2F2F2F;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.faq{
+    margin-left: -550px;
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    color: #2F2F2F;
+}
+
+.done{
+    margin-left: 210px;
+    margin-bottom: 80px;
+    font-weight: 400;
+    font-size: 22px;
+    color: #2F2F2F;
+}
+
+.done2{
+    margin-left: 210px;
+    margin-bottom: 230px;
+    font-weight: 400;
+    font-size: 22px;
+    color: #2F2F2F;
+}
+
+.john{
+    margin-top: 45px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #2F2F2F;
+}
+
+
+.bigfamly{
+    margin-left: 80px;
+    margin-bottom: 200px;
+}
+
+.list_iteamm1 a{
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: #2F2F2F;
+}
+
+.list_iteamm1{
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+
+.list_iteamm a{
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.list_iteamm a{
+    font-weight: 400;
+    font-size: 15px;
+    color: #2F2F2F;
+
+}
+
+.list_goold1{
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.list_goold1 a{
+    text-decoration: none;
+    color: #2F2F2F;
+}
+
+.list_goold{
+    font-weight: 400;
+    font-size: 15px;
+    color: #2F2F2F;
+}
+
+.list_goold a{
+    margin-top: 20px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    color: #2F2F2F;
+}
+
+.btntap{
+    padding: 11px 54px; 
+    border-radius: 20px;
+    background: #F6F6F6;
+}
+
+.btntap2{
+    padding: 11px 15px;
+    background: #2F2F2F;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.reserved{
+    margin-left: 65px;
+    margin-bottom: 50px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #2F2F2F;
+
+}
+
+.respect{
+    display: flex;
+}
+
+.listlol1 a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    color: #2F2F2F;
+
+}
+
+.listlol a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FF7F96;
+}
+
+.head{
+    margin-left: 45px;
+}
+
+
+
+
+
+
+
