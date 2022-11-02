@@ -54,7 +54,6 @@ nav{
     font-size: 13px;
     letter-spacing: 0.48px;
     color: #82CBAC;
-
 }
 
 .change{
@@ -76,7 +75,6 @@ nav{
 .positionImage{
     margin-top: 110px;
     position: relative;
-
 }
 
 .imagePink{
@@ -131,8 +129,7 @@ nav{
 .digital{
     font-weight: 400;
     font-size: 16px;
-    color: #FF7F96;
-
+    color: #FF7F96; 
 }
 
 .pell{
@@ -146,7 +143,6 @@ nav{
     font-weight: 400;
     font-size: 20px;
     color: #2F2F2F;
-
 }
 
 .codxbtn{
@@ -161,7 +157,6 @@ nav{
     border-radius: 30px;
     text-align: center;
     color: #FFFFFF;
-
 }
 
 .btnall2{
@@ -193,7 +188,6 @@ nav{
     text-align: center;
     color: #FFFFFF;
     margin-left: 350px;
-
 }
 
 .image2{
@@ -212,7 +206,6 @@ nav{
     font-weight: 400;
     font-size: 48px;
     color: #2F2F2F;
-
 }
 
 .nulla{
@@ -220,7 +213,6 @@ nav{
     font-weight: 400;
     font-size: 18px;
     color: #2F2F2F;
-
 }
 
 .codmt{
@@ -257,7 +249,10 @@ nav{
     font-weight: 700;
     font-size: 35px;
     color: #2F2F2F;
+}
 
+.image19{
+    margin-bottom: 100px;
 }
 
 .imagelogo{
@@ -269,18 +264,17 @@ nav{
     margin-left: 90px;
 }
 
-.boot{
-    margin-left: -60px;
-    margin-bottom: 100px;
-}
+
 
 .brow{
-    margin-bottom: 90px;
+    margin-top: 100px;
+    margin-bottom: 73px;
     font-weight: 400;
     font-size: 63px;
     text-align: center;
     color: #2F2F2F;
 }
+
 
 
 
@@ -403,7 +397,6 @@ nav{
     font-weight: 400;
     font-size: 15px;
     color: #2F2F2F;
-
 }
 
 .list_goold1{
@@ -452,7 +445,6 @@ nav{
     font-weight: 400;
     font-size: 14px;
     color: #2F2F2F;
-
 }
 
 .respect{
@@ -478,6 +470,64 @@ nav{
     margin-left: 45px;
 }
 
+.usa{
+    font-size: 43px;
+    color: #2F2F2F;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+
+.neft{
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+}
+
+.imgab{
+    margin-left: 60px;
+}
+
+.boot{
+    margin-left: -70px;
+}
+
+.stay{
+    font-weight: 400;
+    font-size: 35px;
+    color: #2F2F2F;
+
+}
+  
+
+.collol{
+    position: relative;
+    top: 80px;
+}
+
+.pen{
+    display: flex;
+    padding-top: 30px;
+}
+
+.emmet{
+    padding-bottom: 75px;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 17px;
+    color: #2F2F2F;
+}
+
+
+.inptt{
+    padding: 11px 50px;
+    background: #F6F6F6;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    font-weight: 400;
+    font-size: 14px;
+    color: #2F2F2F;
+}
 
 
 
